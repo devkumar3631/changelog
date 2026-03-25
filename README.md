@@ -5,13 +5,13 @@ This project demonstrates structured layout, responsive design, and precise alig
 
 ---
 
-##Preview
+## Preview
 
-###Laptop
-![Changelog UI Screenshot](changelog\images\laptop.png)
+### Laptop
+[![Changelog UI Screenshot](images\laptop.png)](https://devkumar3631.github.io/changelog/)
 
-##smartphone
-![Changelog UI Screenshot](changelog\images\mobile.png)
+## smartphone
+[![Changelog UI Screenshot](images\mobile.png)](https://devkumar3631.github.io/changelog/)
 ---
 
 This project is inspired by roadmap-based UI designs:
@@ -20,7 +20,7 @@ This project is inspired by roadmap-based UI designs:
 ---
 
 ## 🔗 Live Demo
-
+https://devkumar3631.github.io/changelog/
 ---
 
 ##  Author
